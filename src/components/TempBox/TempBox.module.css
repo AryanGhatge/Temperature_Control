@@ -1,0 +1,30 @@
+.tempBox {
+  height: 500px;
+  width: 400px;
+  background: #2b5870;
+  border-radius: 20px;
+  box-shadow: 10px 10px 38px 0px rgba(0, 0, 0, 0.75);
+}
+
+.temp_display_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
+.temp_display {
+  height: 270px;
+  width: 270px;
+  /* background-color: #ffffff; */
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  font-size: 80px;
+  font-weight: 900;
+  border: 3px #ffffff solid;
+  transition: background 0.5s;
+}
+
