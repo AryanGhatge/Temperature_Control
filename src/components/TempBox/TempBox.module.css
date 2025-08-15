@@ -24,7 +24,6 @@
   border-radius: 50%;
   font-size: 80px;
   font-weight: 900;
-  border: 3px #ffffff solid;
+  border: 7px #ffffff solid;
   transition: background 0.5s;
 }
-
