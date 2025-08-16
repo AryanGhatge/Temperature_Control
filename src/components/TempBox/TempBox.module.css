@@ -27,3 +27,15 @@
   border: 7px #ffffff solid;
   transition: background 0.5s;
 }
+
+.neutral {
+  background: rgb(184, 184, 184);
+}
+
+.cold {
+  background: #035aa6;
+}
+
+.hot {
+  background: #ff5200;
+}
